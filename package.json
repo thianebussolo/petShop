@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/thianebussolo/petShop#readme",
   "dependencies": {
+<<<<<<< HEAD
     "ejs": "^3.1.8",
+=======
+>>>>>>> 823b517f32c9e192bd562ec30a317b9c1d6a7499
     "express": "^4.18.1",
     "nodemon": "^2.0.16"
   }
