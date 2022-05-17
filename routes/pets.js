@@ -1,5 +1,5 @@
-const express = requires('express')
-const routers = express.Router()
+const express = require ('express')
+const router = express.Router()
 
 router.get('/pets', (req, res) => res.send('Lista de pets'));
 router.get('/pets/:id', (req, res) => res.send('Detalhes do pets: ' + req.params.id));
